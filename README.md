@@ -5,3 +5,5 @@
 [https://github.com/emadshanab/DIR-WORDLISTS](https://github.com/emadshanab/DIR-WORDLISTS)
 
 [https://github.com/Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
+
+[https://github.com/chrislockard/api_wordlist](https://github.com/chrislockard/api_wordlist)
